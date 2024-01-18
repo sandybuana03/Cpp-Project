@@ -36,7 +36,7 @@
 ### BAB 1 Tipe Logika Pemrograman C++
   01. [True-False](https://github.com/sandybuana03/cpp-fundamental/blob/main/truefalse.cpp)
   02. [Relasional](https://github.com/sandybuana03/cpp-fundamental/blob/main/oprelasional.cpp)
-  03. [Hitung Ekspresi](https://github.com/sandybuana03/java-fundamental/blob/main/HitungEkspresi.java)
+  03. [Hitung Ekspresi](https://github.com/sandybuana03/cpp-fundamental/blob/main/oplogicbukan.cpp)
   04. [Identitas (DialogBox)](https://github.com/sandybuana03/java-fundamental/blob/main/IdentitasDialogBox.java)
 
 ---

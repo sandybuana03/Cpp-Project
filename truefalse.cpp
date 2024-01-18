@@ -1,11 +1,11 @@
-// penyajian nilai true dan false
+// penyajian Nilai True & False
 
 #include <iostream>
 
 using namespace std;
 
 int main(){
-	cout << "NILAI True dan False" << endl;
+	cout << "NILAI True & False" << endl;
 	cout << "====================" << endl;
 	
 	cout << "Nilai True  = " << true << endl;

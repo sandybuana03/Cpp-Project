@@ -1,4 +1,4 @@
-// Pengujian ekspresi relasional
+// Pengujian Ekspresi Relasional
 
 #include <iostream>
 
