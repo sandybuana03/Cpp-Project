@@ -44,7 +44,7 @@
 
 ---
 
-### BAB 2 Pemrograman Elementer 
+### BAB 2 Penyelesaian Masalah Dengan Struktur Sekuensial dan Seleksi 
   01. [Luas Lingkaran](https://github.com/sandybuana03/java-fundamental/blob/main/LuasLingkaran.java)
   02. [Luas Lingkaran (Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/LuasLingkaranInput.java)
   03. [Hitung Rata-Rata (3 Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/HitungRataRata.java)
