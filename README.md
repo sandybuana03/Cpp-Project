@@ -38,6 +38,7 @@
   02. [Operator Relasional](https://github.com/sandybuana03/cpp-fundamental/blob/main/oprelasional.cpp)
   03. [Operator Logika Bukan](https://github.com/sandybuana03/cpp-fundamental/blob/main/oplogicbukan.cpp)
   04. [Penentuan Char](https://github.com/sandybuana03/cpp-fundamental/blob/main/char.cpp)
+  05. [Penentuan Char](https://github.com/sandybuana03/cpp-fundamental/blob/main/char2.cpp)
 
 ---
 
