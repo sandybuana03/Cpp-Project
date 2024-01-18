@@ -40,6 +40,7 @@
   04. [Penentuan Char](https://github.com/sandybuana03/cpp-fundamental/blob/main/char.cpp)
   05. [Penentuan Char](https://github.com/sandybuana03/cpp-fundamental/blob/main/char2.cpp)
   06. [Ternary Lulus](https://github.com/sandybuana03/cpp-fundamental/blob/main/lulus.cpp)
+  06. [Ternary Huruf](https://github.com/sandybuana03/cpp-fundamental/blob/main/huruf.cpp)
 
 ---
 
