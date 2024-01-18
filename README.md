@@ -37,7 +37,7 @@
   01. [True-False](https://github.com/sandybuana03/cpp-fundamental/blob/main/truefalse.cpp)
   02. [Operator Relasional](https://github.com/sandybuana03/cpp-fundamental/blob/main/oprelasional.cpp)
   03. [Operator Logika Bukan](https://github.com/sandybuana03/cpp-fundamental/blob/main/oplogicbukan.cpp)
-  04. [Identitas (DialogBox)](https://github.com/sandybuana03/java-fundamental/blob/main/IdentitasDialogBox.java)
+  04. [Penentuan Char](https://github.com/sandybuana03/cpp-fundamental/blob/main/char.cpp)
 
 ---
 
