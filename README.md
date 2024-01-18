@@ -45,25 +45,10 @@
 ---
 
 ### BAB 2 Penyelesaian Masalah Dengan Struktur Sekuensial dan Seleksi 
-  01. [Luas Lingkaran](https://github.com/sandybuana03/java-fundamental/blob/main/LuasLingkaran.java)
-  02. [Luas Lingkaran (Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/LuasLingkaranInput.java)
-  03. [Hitung Rata-Rata (3 Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/HitungRataRata.java)
-  04. [Konversi Detik (Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/KonversiDetik.java)
-  05. [Konversi Suhu (Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/KonversiSuhu.java)
-  06. [Tampil Waktu Sekarang](https://github.com/sandybuana03/java-fundamental/blob/main/WaktuSekarang.java)
-  07. [Pajak Penjualan (Casting)](https://github.com/sandybuana03/java-fundamental/blob/main/PajakPenjualan.java)
-  08. [Perpangkatan (Math.pow)](https://github.com/sandybuana03/java-fundamental/blob/main/Pangkat.java)
-  09. [Hitung Akar (Math.sqrt)](https://github.com/sandybuana03/java-fundamental/blob/main/Akar.java)
-  10. [Karakter Spesial / Special Character](https://github.com/sandybuana03/java-fundamental/blob/main/KarakterSpesial.java)
-  11. [Operator Ternary](https://github.com/sandybuana03/java-fundamental/blob/main/Ternary.java)
-  12. [Menentukan Status Umur (Ternary)](https://github.com/sandybuana03/java-fundamental/blob/main/TernaryUmur.java)
-  13. [Uji Operator Logika / Boolean](https://github.com/sandybuana03/java-fundamental/blob/main/UjiOperatorBoolean.java)
-  14. [Tahun Leap (Boolean)](https://github.com/sandybuana03/java-fundamental/blob/main/TahunLeap.java)
-  15. [Tampil String](https://github.com/sandybuana03/java-fundamental/blob/main/TampilString.java)
-  16. [Baca Satu Baris String](https://github.com/sandybuana03/java-fundamental/blob/main/BacaSebarisString.java)
-  17. [Konversi String ke Numerik (parse)](https://github.com/sandybuana03/java-fundamental/blob/main/KonvertString.java)
+  01. [Angsuran Pembayaran Hutang](https://github.com/sandybuana03/cpp-fundamental/blob/main/angsuran.cpp)
+  02. 
   
-  ---
+---
 
 ### BAB 3 Percabangan
   01. [IF Sederhana (If Satu-Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/IfSederhana.java)
