@@ -47,6 +47,7 @@
 ### BAB 2 Penyelesaian Masalah Dengan Struktur Sekuensial dan Seleksi 
   01. [Angsuran Pembayaran Hutang](https://github.com/sandybuana03/cpp-fundamental/blob/main/angsuran.cpp)
   02. [IF Bilangan Terbesar](https://github.com/sandybuana03/cpp-fundamental/blob/main/bilterbesar.cpp)
+  03. [Penentuan Bilangan Genap / Ganjil](https://github.com/sandybuana03/cpp-fundamental/blob/main/genapganjil.cpp)
   
 ---
 
